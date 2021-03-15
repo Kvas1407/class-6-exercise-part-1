@@ -5,7 +5,7 @@ Git has been created by "Linus Torvalds". The need for the creation is the surpr
 
 
 2. What is Github?
-
+Github is the Internet based Hosting platform exclusively used for controlling versions much easier for Distibuted systems. It supports multiple users to access the content in the platform be recording each user footprints and their history.
 
 3. Need for Github?
 

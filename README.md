@@ -8,7 +8,7 @@ Git has been created by "Linus Torvalds". The need for the creation is the surpr
 Github is the Internet based Hosting platform exclusively used for controlling versions much easier for Distibuted systems. It supports multiple users to access the content in the platform be recording each user footprints and their history.
 
 3. Need for Github?
-
+The need for working in a same module from different locations has been increased widely. Also, those functionalities should never compromise the integrity, origniality and security factors of the module in which users are working on. To satisfy all these needs, this special cloud computing based technology GitHub has been developed with niche equipments of branching, merging, fork, commits, creating/deleteing repositories and many more features to adopt much better than other resources for the situation.
 
 4. What is the Unix epoch?
 
